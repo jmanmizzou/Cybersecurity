@@ -7,4 +7,8 @@ Target Audience: New learners who want to explore cybersecurity and what opportu
 
 Please click a link to learn more about cybersecurity.
 
--[Learn The Basics]
+- [Learn The Basics](LearnTheBasics.md)
+- [On The Rise](OnTheRise.md)
+- [Types of Attacks](TypesofAttacks.md)
+
+
