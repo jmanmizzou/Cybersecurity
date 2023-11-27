@@ -5,3 +5,6 @@ Description: Cybersecurity is the practice that protects data, computer systems,
 
 Target Audience: New learners who want to explore cybersecurity and what opportunities it has. 
 
+Please click a link to learn more about cybersecurity.
+
+-[Learn The Basics]
