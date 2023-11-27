@@ -8,3 +8,8 @@ If you would like to learn what exactly is classified as cybersecurity, please c
 Cybersecurity is something everyone should have a base understanding of because we live in an age where everyone has a cell phone, a computer, or some type of device that can expose personal information if the user is not knowledgeable about what the internet is capable of and why data protection is necessary.
 
 Please click [here](https://www.upguard.com/blog/cybersecurity-important) to learn more about the importance of cybersecurity.
+
+Please click a link to learn more about cybersecurity or click [here](README.md) to go to the home page.
+
+- [On The Rise](OnTheRise.md)
+- [Types of Attacks](TypesofAttacks.md)
